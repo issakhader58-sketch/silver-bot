@@ -1,14 +1,14 @@
 # Silver bot accuracy
 
-Updated: 2026-11-02 07:59 UTC
+Updated: 2026-11-02 18:03 UTC
 
 | Signals | Accuracy | Scored |
 |---|---|---|
-| UT Bot (all signals) | 34.0% | 344 |
+| UT Bot (all signals) | 33.5% | 376 |
 | UT Bot + ML approved | 45.8% | 83 |
 | ML early signals (last 100) | - | 0 |
 
-ML training samples: 4529 (starts judging at 300)
+ML training samples: 4883 (starts judging at 300)
 
 Early signals: PRACTICE (tracked only, no alerts). Goes live after 100 scored early signals with a 50%+ hit rate that is at least 2x the normal rate.
 
@@ -19,6 +19,6 @@ Bearish confirmations it trusts: none yet
 
 (A confirmation is trusted after 200 sightings, once strong moves follow it 1.3x more often than normal. An early signal needs 3 trusted confirmations to agree.)
 
-A strong move = price travels 4 ATRs one way within 15 minutes and barely goes the other way. This normally happens about 18% of the time.
+A strong move = price travels 4 ATRs one way within 15 minutes and barely goes the other way. This normally happens about 17% of the time.
 
 A UT Bot win = price moves more than 0.05% your way within 5 minutes.
