@@ -692,3 +692,4 @@ time_utc,kind,side,price,flag,p
 2026-11-13 21:21,UT Bot,BUY,48.710,False,0.363
 2026-11-13 21:30,UT Bot,SELL,48.605,False,0.469
 2026-11-13 21:43,UT Bot,BUY,48.545,False,0.493
+2026-11-15 23:10,UT Bot,SELL,48.715,True,0.300
