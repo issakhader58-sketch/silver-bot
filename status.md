@@ -1,14 +1,14 @@
 # Silver bot accuracy
 
-Updated: 2026-11-20 13:23 UTC
+Updated: 2026-11-20 21:23 UTC
 
 | Signals | Accuracy | Scored |
 |---|---|---|
-| UT Bot (all signals) | 35.1% | 1310 |
-| UT Bot + ML approved | 33.0% | 261 |
+| UT Bot (all signals) | 35.0% | 1339 |
+| UT Bot + ML approved | 32.7% | 266 |
 | ML early signals (last 100) | - | 0 |
 
-ML training samples: 17658 (starts judging at 300)
+ML training samples: 18063 (starts judging at 300)
 
 Early signals: PRACTICE (tracked only, no alerts). Goes live after 100 scored early signals with a 50%+ hit rate that is at least 2x the normal rate.
 
